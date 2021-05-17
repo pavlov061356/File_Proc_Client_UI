@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.5)
 
 project(File_Proc_Client_UI LANGUAGES CXX)
-set(CMAKE_PREFIX_PATH "/home/alex/qt5/5.15.2/gcc_64")
+set(CMAKE_PREFIX_PATH "/home/vladimir/Qt/5.15.2/gcc_64")
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
